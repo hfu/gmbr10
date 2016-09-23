@@ -1,4 +1,9 @@
 # gmbr10
 Global Map Brazil version 1.0
 
-After downloading, "gunzip watrcrsl.dbf.gz" to extract watrcrsl.dbf.
+# some files split.
+Some files split. Please do the following to reconstruct proper files:
+```sh
+$ sh ./unsplit.sh
+```
+
